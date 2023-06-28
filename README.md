@@ -4,13 +4,11 @@ This DIY Air Quality Sensor measures temperature, humidity, pressure, air qualit
 The data is visualy represented on a display as well available via [Home Assistant](https://www.home-assistant.io).
 
 # Where to find what?
-## firmware
-Please visit https://github.com/maikischa/airquality-probe-firmware for the firmware.
 ## case
 Here are files related to the housing for the DIY probe. The housing is optimized for 3d printing.
 ## electronics
 Here you find schematics, pcb desings and BOM files.
-Code can be found in https://github.com/maikischa/airquality-probe-firmware
+Firmware can be found in https://github.com/maikischa/airquality-probe-firmware
 ## pictures
 Pictures of the probe
 
