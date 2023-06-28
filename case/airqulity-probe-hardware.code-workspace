@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../Nextcloud/Development/esphome/airqulity-probe-hardware"
+		},
+		{
+			"path": "../pictures"
+		},
+		{
+			"path": "../electronics"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
